@@ -1,6 +1,6 @@
 /* This is the main styling for the index page */
 
-.Title {
+#Title {
 	border: 3px solid black;
 	width: 800 px;
 	height: 750 px;
