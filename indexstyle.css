@@ -4,8 +4,8 @@
 	text-align: center;
 	font-size: 600%;
 	font-family: Baskerville Old Face;
-	animation: titleAnim 10s infinite;
+	-webkit-animation: titleAnim 10s infinite;
 }
-@keyframes titleAnim {
-	50% {font: 20px;}
+@-webkit-keyframes titleAnim {
+	50% {font: 20px bold;}
 }
