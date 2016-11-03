@@ -6,6 +6,9 @@
 	height: 480 px;
 	font-family: Baskerville Old Face;
 	-webkit-animation: titleAnim 3s infinite;
+}
+
+.Title{
 	text-align: center;
 	font-size: 300%;
 }
