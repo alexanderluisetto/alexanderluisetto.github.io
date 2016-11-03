@@ -5,11 +5,11 @@
 	width: 800 px;
 	height: 480 px;
 	font-family: Baskerville Old Face;
-	-webkit-animation: titleAnim 7s infinite;
+	-webkit-animation: titleAnim 3s infinite;
 	text-align: center;
 	font-size: 300%;
 }
 
 @-webkit-keyframes titleAnim {
-	50% {font: 20px bold;}
+	50% {font: 40px bold;}
 }
