@@ -1,1 +1,11 @@
 /* This is the main styling for the index page */
+
+.Title {
+	width: 800 px;
+	height: 360 px;
+	font-family: Baskerville Old Face;
+	-webkit-animation: titleAnim 10s infinite;
+}
+@-webkit-keyframes titleAnim {
+	50% {font: 20px;}
+}
