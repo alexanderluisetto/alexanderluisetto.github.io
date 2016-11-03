@@ -8,7 +8,7 @@
 	-webkit-animation: titleAnim 3s infinite;
 }
 
-.Title{
+#Title{
 	text-align: center;
 	font-size: 300%;
 }
