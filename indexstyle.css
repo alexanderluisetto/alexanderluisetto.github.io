@@ -2,9 +2,7 @@
 
 .Title {
 	margin: center;
-	
-	width: 800 px;
-	height: 360 px;
+	font-size: 600%;
 	font-family: Baskerville Old Face;
 	-webkit-animation: titleAnim 10s infinite;
 }
