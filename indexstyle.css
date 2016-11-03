@@ -1,6 +1,9 @@
 /* This is the main styling for the index page */
 
 #Title {
+	border: 3px solid black;
+	width: 800 px;
+	height: 480 px;
 	font-family: Baskerville Old Face;
 	-webkit-animation: titleAnim 10s infinite;
 	text-align: center;
@@ -8,5 +11,5 @@
 }
 
 @-webkit-keyframes titleAnim {
-	50% {font: 20px bold;}
+	50% {font: 20px;}
 }
