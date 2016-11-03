@@ -1,10 +1,12 @@
 /* This is the main styling for the index page */
 
 #Title {
-	text-align: center;
-	font-size: 600%;
 	font-family: Baskerville Old Face;
 	-webkit-animation: titleAnim 10s infinite;
+}
+.Title{
+	text-align: center;
+	font-size: 600%;
 }
 @-webkit-keyframes titleAnim {
 	50% {font: 20px bold;}
