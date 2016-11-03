@@ -3,11 +3,10 @@
 #Title {
 	font-family: Baskerville Old Face;
 	-webkit-animation: titleAnim 10s infinite;
-}
-.Title{
 	text-align: center;
 	font-size: 300%;
 }
+
 @-webkit-keyframes titleAnim {
 	50% {font: 20px bold;}
 }
