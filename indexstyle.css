@@ -3,16 +3,15 @@
 #Title {
 	border: 3px solid black;
 	width: 800 px;
-	height: 540 px;
+	height: 750 px;
+	
 	font-family: Baskerville Old Face;
 	-webkit-animation: titleAnim 3s infinite;
-}
-
-#Title{
+	
 	text-align: center;
 	font-size: 300%;
 }
 
 @-webkit-keyframes titleAnim {
-	50% {font: 30px bold;}
+	50% {font: 20px bold;}
 }
