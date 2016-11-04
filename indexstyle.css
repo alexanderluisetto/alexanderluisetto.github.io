@@ -4,13 +4,13 @@
 	border: 3px solid black;
 	width: 800 px;
 	height: 750 px;
-	font-family: Baskerville Old Face;
+	font-family: 'Libre Baskerville', serif;
 	text-align: center;
 	font-size: 300%;
 }
 
 .Introduction{
-	font-family: Franklin Gothic;
+	font-family: Franklin Gothic, san-serif;
 	text-align: center;
 	size: 18 px;
 }
