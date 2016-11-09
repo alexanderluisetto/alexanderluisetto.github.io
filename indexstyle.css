@@ -4,17 +4,17 @@ a {
 	text-decoration: none;
 }
 .Pico8 a :link{ 
-	text-color: DarkOliveGreen;
+	color: DarkOliveGreen;
 }
 .Pico8 a :visited{ 
-	text-color: SteelBlue;
+	color: SteelBlue;
 }
 
 .Moxxor a:link{
-	text-color: DarkOliveGreen;
+	color: DarkOliveGreen;
 }
 .Moxxor a:visited{
-	text-color: SteelBlue;
+	color: SteelBlue;
 }
 
 
