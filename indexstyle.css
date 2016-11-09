@@ -1,5 +1,23 @@
 /* This is the main styling for the index page */
 
+a {
+	text-decoration: none;
+}
+.Pico8 a :link{ 
+	text-color: DarkOliveGreen;
+}
+.Pico8 a :visited{ 
+	text-color: SteelBlue;
+}
+
+.Moxxor a:link{
+	text-color: DarkOliveGreen;
+}
+.Moxxor a:visited{
+	text-color: SteelBlue;
+}
+
+
 #Title {
 	border: 3px solid black;
 	width: 800 px;
@@ -8,8 +26,6 @@
 	text-align: center;
 	font-size: 300%;
 }
-
-
 
 .Introduction{
 	font-family: 'Noto Serif', serif;
@@ -24,15 +40,8 @@
 	margin: auto;
 }
 
-.Pico8 a { 
-	text-color: DarkOliveGreen;
-}
 
 .Moxxor{
 	font-family: 'Noto Serif', serif;
 	text-align: center;
-}
-
-.Moxxor a {
-	text-color: DarkOliveGreen;
 }
