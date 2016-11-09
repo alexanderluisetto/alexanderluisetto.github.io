@@ -3,10 +3,10 @@
 a {
 	text-decoration: none;
 }
-.Pico8 a :link{ 
+.Pico8 a:link{ 
 	color: DarkOliveGreen;
 }
-.Pico8 a :visited{ 
+.Pico8 a:visited{ 
 	color: SteelBlue;
 }
 
