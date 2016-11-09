@@ -22,12 +22,17 @@
 	text-align: center;
 	display: block;
 	margin: auto;
-	a.Pico8{ 
-	  text-color: DarkOliveGreen;
-	}
+}
+
+.Pico8 a { 
+	text-color: DarkOliveGreen;
 }
 
 .Moxxor{
 	font-family: 'Noto Serif', serif;
 	text-align: center;
+}
+
+.Moxxor a {
+	text-color: DarkOliveGreen;
 }
