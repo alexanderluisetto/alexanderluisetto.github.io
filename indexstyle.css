@@ -9,6 +9,8 @@
 	font-size: 300%;
 }
 
+
+
 .Introduction{
 	font-family: 'Noto Serif', serif;
 	text-align: center;
@@ -20,6 +22,9 @@
 	text-align: center;
 	display: block;
 	margin: auto;
+	a.Pico8{ 
+	  text-color: DarkOliveGreen;
+	}
 }
 
 .Moxxor{
